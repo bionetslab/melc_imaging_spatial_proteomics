@@ -7,3 +7,6 @@
 [submodule "spatial_proteomics"]
 	path = spatial_proteomics
 	url = https://github.com/bionetslab/spatial_proteomics
+[submodule "imaging-and-ml"]
+	path = imaging-and-ml
+	url = https://github.com/bionetslab/imaging-and-ml

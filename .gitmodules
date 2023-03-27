@@ -1,3 +1,6 @@
 [submodule "melc_validation"]
 	path = melc_validation
 	url = https://github.com/bionetslab/melc_validation
+[submodule "melc_databases"]
+	path = melc_databases
+	url = https://github.com/bionetslab/melc_databases

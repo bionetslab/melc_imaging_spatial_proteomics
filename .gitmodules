@@ -4,3 +4,6 @@
 [submodule "melc_databases"]
 	path = melc_databases
 	url = https://github.com/bionetslab/melc_databases
+[submodule "spatial_proteomics"]
+	path = spatial_proteomics
+	url = https://github.com/bionetslab/spatial_proteomics
